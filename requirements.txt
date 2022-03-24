@@ -9,4 +9,4 @@ Werkzeug==2.0.3
 django
 gunicorn
 django-heroku
-request
+requests
